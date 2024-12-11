@@ -95,3 +95,12 @@ Manages a two-dimensional array of `ColorClass` objects representing an image.
     Prints the image as a grid of RGB values.
 
 ---
+
+
+## Example Usage
+
+### Compilation
+Compile the program using a C++ compiler:
+```bash
+g++ -std=c++98 -g -Wall project2.cpp -o project2.exe
+./project2.exe
